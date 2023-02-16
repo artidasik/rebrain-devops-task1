@@ -8,5 +8,5 @@
   
  ### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  administrator
 
-  <!-- code gif-->
+  <!-- cod gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
